@@ -1,0 +1,52 @@
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+/*mark.js jump to highlight search words*/
+mark{
+    background: yellow;
+}
+
+mark.current{
+    background: red;
+}
+
+.top-buffer{
+    margin-top: 50px;
+}
+/*
+.btn{
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+}
+*/
+
+.row-modal{
+    border: 1px gray;
+}
+.searchbox{
+    width:80%;
+}
+.right {
+    float: right;
+    width: 35%;
+    padding: 20px;
+}
+
+#disease-dropdown option{
+    width:90%;
+}
+
+#food-dropdown option{
+    width:90%;
+}
+
+#metabollite-dropdown option{
+    width:90%;
+}

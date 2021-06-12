@@ -1,0 +1,15 @@
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/jmaister/excellentexport"
+    }
+  ],
+  "require": {
+        "mongodb/mongodb": "^1.7",
+      "ext-mysqli": "*",
+        "fabpot/goutte": "^4.0",
+      "ext-json": "*",
+      "jmaister/excellentexport": "~1.4.0"
+    }
+}

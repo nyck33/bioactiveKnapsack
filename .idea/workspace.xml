@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="373e46b5-d84d-4753-9607-87165cfbc9a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/deleteCheckedRows.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/deleteCheckedRows.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/searchKeyTerm.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/searchKeyTerm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/spa.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/spa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spa.php" beforeDir="false" afterPath="$PROJECT_DIR$/spa.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpDebugGeneral" hide_empty_superglobals="false" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="9a52b8c8-1ab8-48ff-afbf-7476f8600b5e" name="localhost" />
+      <server host="http://cs.tru.ca" id="bc6850ea-bccf-44e2-ac13-5a5f7de1b664" name="truServer" port="424" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" deployment_server_id="06dfae92-93cf-4c82-838b-12bf20be1212" path_to_validation_script="$PROJECT_DIR$/.." selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/jean85/pretty-package-versions" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/mongodb/mongodb" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/fabpot/goutte" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+    </include_path>
+  </component>
+  <component name="PhpXdebugProxy" ide_key="11465" host="http://localhost" port="9000" />
+  <component name="ProjectId" id="1iWlMGCAnDc7eQ6BwRea3l4m38q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.splitter.proportion" value="0.31368187" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.localhostJSDebug">
+    <configuration name="controller.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/project/controller.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="localhostJSDebug" type="JavascriptDebugType" uri="http://localhost/project/controller.php?XDEBUG_SESSION_START=phpstorm">
+      <method v="2" />
+    </configuration>
+    <configuration name="spa.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/project/spa.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="JSdebugServer" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8888">
+      <method v="2" />
+    </configuration>
+    <configuration name="cs.tru" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" server_name="truServer" start_url="http://cs.tru.ca/~nkimf20/project/controller.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="dbTest" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" server_name="localhost" start_url="/project/searchDBTest.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="spaNoLogin" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" server_name="localhost" start_url="http://localhost/project/controller.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.localhostJSDebug" />
+      <item itemvalue="JavaScript Debug.controller.php" />
+      <item itemvalue="JavaScript Debug.spa.php" />
+      <item itemvalue="PHP Built-in Web Server.JSdebugServer" />
+      <item itemvalue="PHP Web Page.cs.tru" />
+      <item itemvalue="PHP Web Page.dbTest" />
+      <item itemvalue="PHP Web Page.spaNoLogin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.controller.php" />
+        <item itemvalue="JavaScript Debug.spa.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="373e46b5-d84d-4753-9607-87165cfbc9a4" name="Default Changelist" comment="" />
+      <created>1602031178467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602031178467</updated>
+      <workItem from="1602031179715" duration="18571000" />
+      <workItem from="1602053114997" duration="2099000" />
+      <workItem from="1602090842567" duration="1705000" />
+      <workItem from="1602115915544" duration="2967000" />
+      <workItem from="1602176562311" duration="849000" />
+      <workItem from="1602294612457" duration="1124000" />
+      <workItem from="1602566266924" duration="313000" />
+      <workItem from="1602618445971" duration="47000" />
+      <workItem from="1602622696536" duration="2153000" />
+      <workItem from="1602624951547" duration="23285000" />
+      <workItem from="1602658459472" duration="2542000" />
+      <workItem from="1602661717263" duration="2159000" />
+      <workItem from="1602665101375" duration="1025000" />
+      <workItem from="1603320449560" duration="15000" />
+      <workItem from="1603478727210" duration="10434000" />
+      <workItem from="1603494627067" duration="608000" />
+      <workItem from="1603495770633" duration="1059000" />
+      <workItem from="1603496851358" duration="2920000" />
+      <workItem from="1603500414225" duration="2162000" />
+      <workItem from="1603502726415" duration="5814000" />
+      <workItem from="1603508732910" duration="12975000" />
+      <workItem from="1603521945961" duration="8711000" />
+      <workItem from="1603530977476" duration="2763000" />
+      <workItem from="1603562200408" duration="3078000" />
+      <workItem from="1603565588318" duration="13000" />
+      <workItem from="1603565629019" duration="1588000" />
+      <workItem from="1603574044218" duration="442000" />
+      <workItem from="1603763826903" duration="1267000" />
+      <workItem from="1603825007273" duration="890000" />
+      <workItem from="1603825976733" duration="146000" />
+      <workItem from="1603826397943" duration="642000" />
+      <workItem from="1603828127938" duration="5639000" />
+      <workItem from="1603834748321" duration="14000" />
+      <workItem from="1603836106568" duration="2592000" />
+      <workItem from="1603852337123" duration="1247000" />
+      <workItem from="1604019109284" duration="1672000" />
+      <workItem from="1604028280913" duration="154000" />
+      <workItem from="1604214058883" duration="1336000" />
+      <workItem from="1604463892876" duration="604000" />
+      <workItem from="1604617336166" duration="5547000" />
+      <workItem from="1604795936237" duration="9554000" />
+      <workItem from="1604862368422" duration="14779000" />
+      <workItem from="1604884464361" duration="381000" />
+      <workItem from="1604884878054" duration="15843000" />
+      <workItem from="1604957483914" duration="953000" />
+      <workItem from="1604979782135" duration="6837000" />
+      <workItem from="1604987871205" duration="2503000" />
+      <workItem from="1604992218904" duration="701000" />
+      <workItem from="1604994720903" duration="7058000" />
+      <workItem from="1605032684508" duration="23040000" />
+      <workItem from="1605074851465" duration="6809000" />
+      <workItem from="1605082502252" duration="5340000" />
+      <workItem from="1605121365951" duration="292000" />
+      <workItem from="1605151875486" duration="1483000" />
+      <workItem from="1605153477595" duration="1963000" />
+      <workItem from="1605228246749" duration="24533000" />
+      <workItem from="1605305378666" duration="29997000" />
+      <workItem from="1605379463761" duration="796000" />
+      <workItem from="1605380816170" duration="17516000" />
+      <workItem from="1605407121844" duration="5065000" />
+      <workItem from="1605412447159" duration="6545000" />
+      <workItem from="1605419166621" duration="11370000" />
+      <workItem from="1605464553120" duration="12193000" />
+      <workItem from="1605484011031" duration="19120000" />
+      <workItem from="1605559723657" duration="4703000" />
+      <workItem from="1605568768350" duration="28395000" />
+      <workItem from="1605633113695" duration="19942000" />
+      <workItem from="1605659493290" duration="35000" />
+      <workItem from="1605659671079" duration="1926000" />
+      <workItem from="1605661621479" duration="4130000" />
+      <workItem from="1605665930165" duration="9543000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1375" y="747" width="824" height="499" key="#CLI_Interpreters" timestamp="1603507503461">
+      <screen x="1366" y="0" width="896" height="1440" />
+    </state>
+    <state x="1375" y="747" width="824" height="499" key="#CLI_Interpreters/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603507503461" />
+    <state x="1431" y="763" width="800" height="677" key="#Deployment" timestamp="1603508223043">
+      <screen x="1366" y="0" width="896" height="1440" />
+    </state>
+    <state x="1431" y="763" width="800" height="677" key="#Deployment/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603508223043" />
+    <state x="1491" y="809" width="604" height="350" key="#Notifications" timestamp="1603501760788">
+      <screen x="1366" y="0" width="896" height="1440" />
+    </state>
+    <state x="1491" y="809" width="604" height="350" key="#Notifications/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603501760788" />
+    <state x="1518" y="833" width="700" height="752" key="#PHP" timestamp="1602031437839">
+      <screen x="1366" y="0" width="1048" height="1680" />
+    </state>
+    <state x="1518" y="833" width="700" height="752" key="#PHP/1366.0.1048.1680/0.939.1366.741@1366.0.1048.1680" timestamp="1602031437839" />
+    <state x="1366" y="837" width="865" height="294" key="#SQL_Dialects" timestamp="1602633598898">
+      <screen x="1366" y="0" width="896" height="1440" />
+    </state>
+    <state x="1366" y="837" width="865" height="294" key="#SQL_Dialects/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1602633598898" />
+    <state x="1366" y="621" width="733" height="684" key="#Servers" timestamp="1605563197747">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state x="1366" y="621" width="733" height="684" key="#Servers/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605563197747" />
+    <state x="1380" y="348" width="824" height="684" key="#Servers/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603507232617" />
+    <state x="644" y="820" width="467" height="432" key="#Web_Browsers" timestamp="1604995454261">
+      <screen x="0" y="666" width="1366" height="741" />
+    </state>
+    <state x="644" y="820" width="467" height="432" key="#Web_Browsers/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1604995454261" />
+    <state x="1366" y="538" width="733" height="828" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605647771322">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state x="1366" y="538" width="733" height="828" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605647771322" />
+    <state x="1366" y="616" width="865" height="767" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1604999054949" />
+    <state x="1366" y="845" width="1015" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.1048.1680/0.939.1366.741@1366.0.1048.1680" timestamp="1602031452223" />
+    <state x="1366" y="686" width="865" height="674" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603507259506" />
+    <state x="1585" y="880" width="417" height="324" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1603497980418">
+      <screen x="1366" y="0" width="896" height="1440" />
+    </state>
+    <state x="1585" y="880" width="417" height="324" key="#com.intellij.ide.actions.DebugLogConfigureAction/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603497980418" />
+    <state x="1546" y="427" width="554" height="535" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#" timestamp="1603508544075">
+      <screen x="1366" y="0" width="896" height="1440" />
+    </state>
+    <state x="1546" y="427" width="554" height="535" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603508544075" />
+    <state x="1518" y="950" width="523" height="171" key="ComposerInitDialogKey" timestamp="1604809147397">
+      <screen x="0" y="666" width="2231" height="774" />
+    </state>
+    <state x="1518" y="950" width="523" height="171" key="ComposerInitDialogKey/0.666.2231.774@0.666.2231.774" timestamp="1604809147397" />
+    <state x="1416" y="93" width="648" height="1179" maximized="true" key="DiffContextDialog" timestamp="1605389714419">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state x="1424" y="98" width="755" height="1242" key="DiffContextDialog/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1604883990019" />
+    <state x="1416" y="93" width="648" height="1179" maximized="true" key="DiffContextDialog/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605084419476" />
+    <state x="1424" y="98" width="755" height="1242" key="DiffContextDialog/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603528301607" />
+    <state x="1570" y="754" width="424" height="484" key="FileChooserDialogImpl" timestamp="1603508232692">
+      <screen x="1366" y="0" width="896" height="1440" />
+    </state>
+    <state x="1570" y="754" width="424" height="484" key="FileChooserDialogImpl/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603508232692" />
+    <state width="647" height="243" key="GridCell.Tab.0.bottom" timestamp="1605675165420">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="839" height="204" key="GridCell.Tab.0.bottom/0.27.1331.741@0.27.1331.741" timestamp="1605379502279" />
+    <state width="667" height="81" key="GridCell.Tab.0.bottom/0.598.1366.768/1366.0.768.1366@0.598.1366.768" timestamp="1605565085489" />
+    <state width="687" height="198" key="GridCell.Tab.0.bottom/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605659466399" />
+    <state width="687" height="166" key="GridCell.Tab.0.bottom/0.625.2099.741@0.625.2099.741" timestamp="1605380790884" />
+    <state width="1285" height="69" key="GridCell.Tab.0.bottom/0.639.1366.768/1366.0.896.1440@0.639.1366.768" timestamp="1605038101597" />
+    <state width="687" height="35" key="GridCell.Tab.0.bottom/0.639.1366.768/1366.0.896.1440@1366.0.896.1440" timestamp="1605061705604" />
+    <state width="819" height="406" key="GridCell.Tab.0.bottom/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1605033781896" />
+    <state width="952" height="177" key="GridCell.Tab.0.bottom/0.939.1366.741/1366.0.1048.1680@1366.0.1048.1680" timestamp="1602295736203" />
+    <state width="952" height="12" key="GridCell.Tab.0.bottom/1366.0.1048.1680/0.939.1366.741@1366.0.1048.1680" timestamp="1602118893566" />
+    <state width="1166" height="58" key="GridCell.Tab.0.bottom/1366.0.768.1366/0.598.1366.768@0.598.1366.768" timestamp="1605261816769" />
+    <state width="1285" height="193" key="GridCell.Tab.0.bottom/1366.0.768.1366/0.625.1366.741@0.625.1366.741" timestamp="1605600921653" />
+    <state width="647" height="243" key="GridCell.Tab.0.bottom/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605675165420" />
+    <state width="809" height="225" key="GridCell.Tab.0.bottom/1366.0.896.1440/0.639.1366.768@0.639.1366.768" timestamp="1603538073334" />
+    <state width="809" height="225" key="GridCell.Tab.0.bottom/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603531612017" />
+    <state width="647" height="243" key="GridCell.Tab.0.center" timestamp="1605675165419">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="839" height="204" key="GridCell.Tab.0.center/0.27.1331.741@0.27.1331.741" timestamp="1605379502277" />
+    <state width="667" height="81" key="GridCell.Tab.0.center/0.598.1366.768/1366.0.768.1366@0.598.1366.768" timestamp="1605565085489" />
+    <state width="687" height="198" key="GridCell.Tab.0.center/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605659466399" />
+    <state width="687" height="166" key="GridCell.Tab.0.center/0.625.2099.741@0.625.2099.741" timestamp="1605380790883" />
+    <state width="1285" height="69" key="GridCell.Tab.0.center/0.639.1366.768/1366.0.896.1440@0.639.1366.768" timestamp="1605038101597" />
+    <state width="687" height="35" key="GridCell.Tab.0.center/0.639.1366.768/1366.0.896.1440@1366.0.896.1440" timestamp="1605061705604" />
+    <state width="819" height="406" key="GridCell.Tab.0.center/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1605033781895" />
+    <state width="952" height="177" key="GridCell.Tab.0.center/0.939.1366.741/1366.0.1048.1680@1366.0.1048.1680" timestamp="1602295736203" />
+    <state width="952" height="12" key="GridCell.Tab.0.center/1366.0.1048.1680/0.939.1366.741@1366.0.1048.1680" timestamp="1602118893566" />
+    <state width="1166" height="58" key="GridCell.Tab.0.center/1366.0.768.1366/0.598.1366.768@0.598.1366.768" timestamp="1605261816769" />
+    <state width="1285" height="193" key="GridCell.Tab.0.center/1366.0.768.1366/0.625.1366.741@0.625.1366.741" timestamp="1605600921653" />
+    <state width="647" height="243" key="GridCell.Tab.0.center/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605675165419" />
+    <state width="809" height="225" key="GridCell.Tab.0.center/1366.0.896.1440/0.639.1366.768@0.639.1366.768" timestamp="1603538073334" />
+    <state width="809" height="225" key="GridCell.Tab.0.center/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603531612017" />
+    <state width="647" height="243" key="GridCell.Tab.0.left" timestamp="1605675165419">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="839" height="204" key="GridCell.Tab.0.left/0.27.1331.741@0.27.1331.741" timestamp="1605379502276" />
+    <state width="667" height="81" key="GridCell.Tab.0.left/0.598.1366.768/1366.0.768.1366@0.598.1366.768" timestamp="1605565085488" />
+    <state width="687" height="198" key="GridCell.Tab.0.left/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605659466398" />
+    <state width="687" height="166" key="GridCell.Tab.0.left/0.625.2099.741@0.625.2099.741" timestamp="1605380790883" />
+    <state width="1285" height="69" key="GridCell.Tab.0.left/0.639.1366.768/1366.0.896.1440@0.639.1366.768" timestamp="1605038101596" />
+    <state width="687" height="35" key="GridCell.Tab.0.left/0.639.1366.768/1366.0.896.1440@1366.0.896.1440" timestamp="1605061705604" />
+    <state width="819" height="406" key="GridCell.Tab.0.left/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1605033781895" />
+    <state width="952" height="177" key="GridCell.Tab.0.left/0.939.1366.741/1366.0.1048.1680@1366.0.1048.1680" timestamp="1602295736202" />
+    <state width="952" height="12" key="GridCell.Tab.0.left/1366.0.1048.1680/0.939.1366.741@1366.0.1048.1680" timestamp="1602118893566" />
+    <state width="1166" height="58" key="GridCell.Tab.0.left/1366.0.768.1366/0.598.1366.768@0.598.1366.768" timestamp="1605261816769" />
+    <state width="1285" height="193" key="GridCell.Tab.0.left/1366.0.768.1366/0.625.1366.741@0.625.1366.741" timestamp="1605600921652" />
+    <state width="647" height="243" key="GridCell.Tab.0.left/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605675165419" />
+    <state width="809" height="225" key="GridCell.Tab.0.left/1366.0.896.1440/0.639.1366.768@0.639.1366.768" timestamp="1603538073334" />
+    <state width="809" height="225" key="GridCell.Tab.0.left/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603531612016" />
+    <state width="647" height="243" key="GridCell.Tab.0.right" timestamp="1605675165419">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="839" height="204" key="GridCell.Tab.0.right/0.27.1331.741@0.27.1331.741" timestamp="1605379502278" />
+    <state width="667" height="81" key="GridCell.Tab.0.right/0.598.1366.768/1366.0.768.1366@0.598.1366.768" timestamp="1605565085489" />
+    <state width="687" height="198" key="GridCell.Tab.0.right/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605659466399" />
+    <state width="687" height="166" key="GridCell.Tab.0.right/0.625.2099.741@0.625.2099.741" timestamp="1605380790883" />
+    <state width="1285" height="69" key="GridCell.Tab.0.right/0.639.1366.768/1366.0.896.1440@0.639.1366.768" timestamp="1605038101597" />
+    <state width="687" height="35" key="GridCell.Tab.0.right/0.639.1366.768/1366.0.896.1440@1366.0.896.1440" timestamp="1605061705604" />
+    <state width="819" height="406" key="GridCell.Tab.0.right/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1605033781896" />
+    <state width="952" height="177" key="GridCell.Tab.0.right/0.939.1366.741/1366.0.1048.1680@1366.0.1048.1680" timestamp="1602295736203" />
+    <state width="952" height="12" key="GridCell.Tab.0.right/1366.0.1048.1680/0.939.1366.741@1366.0.1048.1680" timestamp="1602118893566" />
+    <state width="1166" height="58" key="GridCell.Tab.0.right/1366.0.768.1366/0.598.1366.768@0.598.1366.768" timestamp="1605261816769" />
+    <state width="1285" height="193" key="GridCell.Tab.0.right/1366.0.768.1366/0.625.1366.741@0.625.1366.741" timestamp="1605600921653" />
+    <state width="647" height="243" key="GridCell.Tab.0.right/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605675165419" />
+    <state width="809" height="225" key="GridCell.Tab.0.right/1366.0.896.1440/0.639.1366.768@0.639.1366.768" timestamp="1603538073334" />
+    <state width="809" height="225" key="GridCell.Tab.0.right/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603531612017" />
+    <state width="647" height="243" key="GridCell.Tab.1.bottom" timestamp="1605675165240">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="839" height="204" key="GridCell.Tab.1.bottom/0.27.1331.741@0.27.1331.741" timestamp="1605379505376" />
+    <state width="667" height="81" key="GridCell.Tab.1.bottom/0.598.1366.768/1366.0.768.1366@0.598.1366.768" timestamp="1605565085489" />
+    <state width="687" height="198" key="GridCell.Tab.1.bottom/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605659466399" />
+    <state width="687" height="166" key="GridCell.Tab.1.bottom/0.625.2099.741@0.625.2099.741" timestamp="1605380790886" />
+    <state width="1285" height="69" key="GridCell.Tab.1.bottom/0.639.1366.768/1366.0.896.1440@0.639.1366.768" timestamp="1605038101598" />
+    <state width="687" height="35" key="GridCell.Tab.1.bottom/0.639.1366.768/1366.0.896.1440@1366.0.896.1440" timestamp="1605061705604" />
+    <state width="819" height="406" key="GridCell.Tab.1.bottom/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1605033781896" />
+    <state width="1166" height="58" key="GridCell.Tab.1.bottom/1366.0.768.1366/0.598.1366.768@0.598.1366.768" timestamp="1605261828715" />
+    <state width="1285" height="193" key="GridCell.Tab.1.bottom/1366.0.768.1366/0.625.1366.741@0.625.1366.741" timestamp="1605600923263" />
+    <state width="647" height="243" key="GridCell.Tab.1.bottom/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605675165240" />
+    <state width="809" height="225" key="GridCell.Tab.1.bottom/1366.0.896.1440/0.639.1366.768@0.639.1366.768" timestamp="1603538073335" />
+    <state width="809" height="225" key="GridCell.Tab.1.bottom/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603531612017" />
+    <state width="647" height="243" key="GridCell.Tab.1.center" timestamp="1605675165240">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="839" height="204" key="GridCell.Tab.1.center/0.27.1331.741@0.27.1331.741" timestamp="1605379505375" />
+    <state width="667" height="81" key="GridCell.Tab.1.center/0.598.1366.768/1366.0.768.1366@0.598.1366.768" timestamp="1605565085489" />
+    <state width="687" height="198" key="GridCell.Tab.1.center/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605659466399" />
+    <state width="687" height="166" key="GridCell.Tab.1.center/0.625.2099.741@0.625.2099.741" timestamp="1605380790885" />
+    <state width="1285" height="69" key="GridCell.Tab.1.center/0.639.1366.768/1366.0.896.1440@0.639.1366.768" timestamp="1605038101597" />
+    <state width="687" height="35" key="GridCell.Tab.1.center/0.639.1366.768/1366.0.896.1440@1366.0.896.1440" timestamp="1605061705604" />
+    <state width="819" height="406" key="GridCell.Tab.1.center/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1605033781896" />
+    <state width="1166" height="58" key="GridCell.Tab.1.center/1366.0.768.1366/0.598.1366.768@0.598.1366.768" timestamp="1605261828715" />
+    <state width="1285" height="193" key="GridCell.Tab.1.center/1366.0.768.1366/0.625.1366.741@0.625.1366.741" timestamp="1605600923263" />
+    <state width="647" height="243" key="GridCell.Tab.1.center/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605675165240" />
+    <state width="809" height="225" key="GridCell.Tab.1.center/1366.0.896.1440/0.639.1366.768@0.639.1366.768" timestamp="1603538073335" />
+    <state width="809" height="225" key="GridCell.Tab.1.center/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603531612017" />
+    <state width="647" height="243" key="GridCell.Tab.1.left" timestamp="1605675165240">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="839" height="204" key="GridCell.Tab.1.left/0.27.1331.741@0.27.1331.741" timestamp="1605379505374" />
+    <state width="667" height="81" key="GridCell.Tab.1.left/0.598.1366.768/1366.0.768.1366@0.598.1366.768" timestamp="1605565085489" />
+    <state width="687" height="198" key="GridCell.Tab.1.left/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605659466399" />
+    <state width="687" height="166" key="GridCell.Tab.1.left/0.625.2099.741@0.625.2099.741" timestamp="1605380790884" />
+    <state width="1285" height="69" key="GridCell.Tab.1.left/0.639.1366.768/1366.0.896.1440@0.639.1366.768" timestamp="1605038101597" />
+    <state width="687" height="35" key="GridCell.Tab.1.left/0.639.1366.768/1366.0.896.1440@1366.0.896.1440" timestamp="1605061705604" />
+    <state width="819" height="406" key="GridCell.Tab.1.left/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1605033781896" />
+    <state width="1166" height="58" key="GridCell.Tab.1.left/1366.0.768.1366/0.598.1366.768@0.598.1366.768" timestamp="1605261828714" />
+    <state width="1285" height="193" key="GridCell.Tab.1.left/1366.0.768.1366/0.625.1366.741@0.625.1366.741" timestamp="1605600923263" />
+    <state width="647" height="243" key="GridCell.Tab.1.left/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605675165240" />
+    <state width="809" height="225" key="GridCell.Tab.1.left/1366.0.896.1440/0.639.1366.768@0.639.1366.768" timestamp="1603538073335" />
+    <state width="809" height="225" key="GridCell.Tab.1.left/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603531612017" />
+    <state width="647" height="243" key="GridCell.Tab.1.right" timestamp="1605675165240">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="839" height="204" key="GridCell.Tab.1.right/0.27.1331.741@0.27.1331.741" timestamp="1605379505376" />
+    <state width="667" height="81" key="GridCell.Tab.1.right/0.598.1366.768/1366.0.768.1366@0.598.1366.768" timestamp="1605565085489" />
+    <state width="687" height="198" key="GridCell.Tab.1.right/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605659466399" />
+    <state width="687" height="166" key="GridCell.Tab.1.right/0.625.2099.741@0.625.2099.741" timestamp="1605380790885" />
+    <state width="1285" height="69" key="GridCell.Tab.1.right/0.639.1366.768/1366.0.896.1440@0.639.1366.768" timestamp="1605038101597" />
+    <state width="687" height="35" key="GridCell.Tab.1.right/0.639.1366.768/1366.0.896.1440@1366.0.896.1440" timestamp="1605061705604" />
+    <state width="819" height="406" key="GridCell.Tab.1.right/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1605033781896" />
+    <state width="1166" height="58" key="GridCell.Tab.1.right/1366.0.768.1366/0.598.1366.768@0.598.1366.768" timestamp="1605261828715" />
+    <state width="1285" height="193" key="GridCell.Tab.1.right/1366.0.768.1366/0.625.1366.741@0.625.1366.741" timestamp="1605600923263" />
+    <state width="647" height="243" key="GridCell.Tab.1.right/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605675165240" />
+    <state width="809" height="225" key="GridCell.Tab.1.right/1366.0.896.1440/0.639.1366.768@0.639.1366.768" timestamp="1603538073335" />
+    <state width="809" height="225" key="GridCell.Tab.1.right/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603531612017" />
+    <state width="647" height="243" key="GridCell.Tab.2.bottom" timestamp="1605675165240">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="667" height="81" key="GridCell.Tab.2.bottom/0.598.1366.768/1366.0.768.1366@0.598.1366.768" timestamp="1605565085489" />
+    <state width="687" height="198" key="GridCell.Tab.2.bottom/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605659466399" />
+    <state width="687" height="166" key="GridCell.Tab.2.bottom/0.625.2099.741@0.625.2099.741" timestamp="1605380790887" />
+    <state width="1285" height="69" key="GridCell.Tab.2.bottom/0.639.1366.768/1366.0.896.1440@0.639.1366.768" timestamp="1605038101598" />
+    <state width="687" height="35" key="GridCell.Tab.2.bottom/0.639.1366.768/1366.0.896.1440@1366.0.896.1440" timestamp="1605061705605" />
+    <state width="819" height="406" key="GridCell.Tab.2.bottom/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1605033781897" />
+    <state width="1166" height="58" key="GridCell.Tab.2.bottom/1366.0.768.1366/0.598.1366.768@0.598.1366.768" timestamp="1605261816654" />
+    <state width="1285" height="193" key="GridCell.Tab.2.bottom/1366.0.768.1366/0.625.1366.741@0.625.1366.741" timestamp="1605600921540" />
+    <state width="647" height="243" key="GridCell.Tab.2.bottom/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605675165240" />
+    <state width="809" height="225" key="GridCell.Tab.2.bottom/1366.0.896.1440/0.639.1366.768@0.639.1366.768" timestamp="1603538073335" />
+    <state width="809" height="225" key="GridCell.Tab.2.bottom/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603531612018" />
+    <state width="647" height="243" key="GridCell.Tab.2.center" timestamp="1605675165240">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="667" height="81" key="GridCell.Tab.2.center/0.598.1366.768/1366.0.768.1366@0.598.1366.768" timestamp="1605565085489" />
+    <state width="687" height="198" key="GridCell.Tab.2.center/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605659466399" />
+    <state width="687" height="166" key="GridCell.Tab.2.center/0.625.2099.741@0.625.2099.741" timestamp="1605380790886" />
+    <state width="1285" height="69" key="GridCell.Tab.2.center/0.639.1366.768/1366.0.896.1440@0.639.1366.768" timestamp="1605038101598" />
+    <state width="687" height="35" key="GridCell.Tab.2.center/0.639.1366.768/1366.0.896.1440@1366.0.896.1440" timestamp="1605061705605" />
+    <state width="819" height="406" key="GridCell.Tab.2.center/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1605033781897" />
+    <state width="1166" height="58" key="GridCell.Tab.2.center/1366.0.768.1366/0.598.1366.768@0.598.1366.768" timestamp="1605261816654" />
+    <state width="1285" height="193" key="GridCell.Tab.2.center/1366.0.768.1366/0.625.1366.741@0.625.1366.741" timestamp="1605600921539" />
+    <state width="647" height="243" key="GridCell.Tab.2.center/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605675165240" />
+    <state width="809" height="225" key="GridCell.Tab.2.center/1366.0.896.1440/0.639.1366.768@0.639.1366.768" timestamp="1603538073335" />
+    <state width="809" height="225" key="GridCell.Tab.2.center/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603531612017" />
+    <state width="647" height="243" key="GridCell.Tab.2.left" timestamp="1605675165240">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="667" height="81" key="GridCell.Tab.2.left/0.598.1366.768/1366.0.768.1366@0.598.1366.768" timestamp="1605565085489" />
+    <state width="687" height="198" key="GridCell.Tab.2.left/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605659466399" />
+    <state width="687" height="166" key="GridCell.Tab.2.left/0.625.2099.741@0.625.2099.741" timestamp="1605380790886" />
+    <state width="1285" height="69" key="GridCell.Tab.2.left/0.639.1366.768/1366.0.896.1440@0.639.1366.768" timestamp="1605038101598" />
+    <state width="687" height="35" key="GridCell.Tab.2.left/0.639.1366.768/1366.0.896.1440@1366.0.896.1440" timestamp="1605061705605" />
+    <state width="819" height="406" key="GridCell.Tab.2.left/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1605033781897" />
+    <state width="1166" height="58" key="GridCell.Tab.2.left/1366.0.768.1366/0.598.1366.768@0.598.1366.768" timestamp="1605261816654" />
+    <state width="1285" height="193" key="GridCell.Tab.2.left/1366.0.768.1366/0.625.1366.741@0.625.1366.741" timestamp="1605600921539" />
+    <state width="647" height="243" key="GridCell.Tab.2.left/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605675165240" />
+    <state width="809" height="225" key="GridCell.Tab.2.left/1366.0.896.1440/0.639.1366.768@0.639.1366.768" timestamp="1603538073335" />
+    <state width="809" height="225" key="GridCell.Tab.2.left/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603531612017" />
+    <state width="647" height="243" key="GridCell.Tab.2.right" timestamp="1605675165240">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="667" height="81" key="GridCell.Tab.2.right/0.598.1366.768/1366.0.768.1366@0.598.1366.768" timestamp="1605565085489" />
+    <state width="687" height="198" key="GridCell.Tab.2.right/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605659466399" />
+    <state width="687" height="166" key="GridCell.Tab.2.right/0.625.2099.741@0.625.2099.741" timestamp="1605380790886" />
+    <state width="1285" height="69" key="GridCell.Tab.2.right/0.639.1366.768/1366.0.896.1440@0.639.1366.768" timestamp="1605038101598" />
+    <state width="687" height="35" key="GridCell.Tab.2.right/0.639.1366.768/1366.0.896.1440@1366.0.896.1440" timestamp="1605061705605" />
+    <state width="819" height="406" key="GridCell.Tab.2.right/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1605033781897" />
+    <state width="1166" height="58" key="GridCell.Tab.2.right/1366.0.768.1366/0.598.1366.768@0.598.1366.768" timestamp="1605261816654" />
+    <state width="1285" height="193" key="GridCell.Tab.2.right/1366.0.768.1366/0.625.1366.741@0.625.1366.741" timestamp="1605600921539" />
+    <state width="647" height="243" key="GridCell.Tab.2.right/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605675165240" />
+    <state width="809" height="225" key="GridCell.Tab.2.right/1366.0.896.1440/0.639.1366.768@0.639.1366.768" timestamp="1603538073335" />
+    <state width="809" height="225" key="GridCell.Tab.2.right/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603531612017" />
+    <state width="833" height="302" key="GridCell.Tab.3.bottom" timestamp="1604992720545">
+      <screen x="1366" y="0" width="896" height="1440" />
+    </state>
+    <state width="833" height="302" key="GridCell.Tab.3.bottom/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1604992720545" />
+    <state width="833" height="302" key="GridCell.Tab.3.center" timestamp="1604992720544">
+      <screen x="1366" y="0" width="896" height="1440" />
+    </state>
+    <state width="833" height="302" key="GridCell.Tab.3.center/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1604992720544" />
+    <state width="833" height="302" key="GridCell.Tab.3.left" timestamp="1604992720544">
+      <screen x="1366" y="0" width="896" height="1440" />
+    </state>
+    <state width="833" height="302" key="GridCell.Tab.3.left/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1604992720544" />
+    <state width="833" height="302" key="GridCell.Tab.3.right" timestamp="1604992720544">
+      <screen x="1366" y="0" width="896" height="1440" />
+    </state>
+    <state width="833" height="302" key="GridCell.Tab.3.right/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1604992720544" />
+    <state x="1366" y="905" width="733" height="149" key="NewPhpFileDialog" timestamp="1605645361151">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state x="1366" y="905" key="NewPhpFileDialog/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605645361151" />
+    <state x="1629" y="954" width="399" height="149" key="NewPhpFileDialog/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1604988674465" />
+    <state x="337" y="1179" width="994" height="149" key="NewPhpFileDialog/0.666.2231.774@0.666.2231.774" timestamp="1604813690853" />
+    <state x="1674" y="1113" width="399" height="149" key="NewPhpFileDialog/1366.0.1048.1680/0.939.1366.741@1366.0.1048.1680" timestamp="1602033800377" />
+    <state x="1366" y="905" width="733" height="149" key="NewPhpFileDialog/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605228788159" />
+    <state x="1629" y="954" width="342" height="149" key="NewPhpFileDialog/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603495955547" />
+    <state x="1366" y="596" width="900" height="730" key="SettingsEditor" timestamp="1604994948990">
+      <screen x="1366" y="0" width="896" height="1440" />
+    </state>
+    <state x="1366" y="596" width="900" height="730" key="SettingsEditor/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1604994948990" />
+    <state x="1261" y="542" width="900" height="730" key="SettingsEditor/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603507569991" />
+    <state x="1366" y="762" width="733" height="528" key="Vcs.Push.Dialog.v2" timestamp="1605601139681">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state x="1366" y="762" width="733" height="528" key="Vcs.Push.Dialog.v2/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605505287414" />
+    <state x="1366" y="762" width="733" height="528" key="Vcs.Push.Dialog.v2/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605601139681" />
+    <state x="1632" y="945" width="492" height="200" key="WebDeployment.AddServerDialog.v.1" timestamp="1603508107134">
+      <screen x="1366" y="0" width="896" height="1440" />
+    </state>
+    <state x="1632" y="945" width="492" height="200" key="WebDeployment.AddServerDialog.v.1/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603508107134" />
+    <state width="371" height="389" key="XDebugger.FullValuePopup" timestamp="1605670167639">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="371" height="389" key="XDebugger.FullValuePopup/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605659267584" />
+    <state width="432" height="410" key="XDebugger.FullValuePopup/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1604999478012" />
+    <state width="371" height="389" key="XDebugger.FullValuePopup/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605670167639" />
+    <state width="432" height="410" key="XDebugger.FullValuePopup/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1602654029556" />
+    <state x="1382" y="671" width="717" height="627" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1605389714419">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state x="1382" y="671" width="717" height="627" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605389714419" />
+    <state x="1382" y="10" width="848" height="662" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1604883622323" />
+    <state x="1382" y="671" width="717" height="627" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605084419476" />
+    <state x="1466" y="98" width="665" height="1242" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603528301607" />
+    <state x="1366" y="28" width="723" height="643" maximized="true" key="dock-window-1" timestamp="1605675423573">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state x="0" y="27" width="723" height="673" key="dock-window-1/0.598.1366.768/1366.0.768.1366@0.598.1366.768" timestamp="1605565084224" />
+    <state x="1366" y="35" width="733" height="713" key="dock-window-1/0.625.1366.741/1366.0.768.1366@0.625.1366.741" timestamp="1605326138746" />
+    <state x="1366" y="0" width="721" height="642" key="dock-window-1/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605642990287" />
+    <state x="1366" y="7" width="733" height="626" key="dock-window-1/0.625.2099.741@0.625.2099.741" timestamp="1605380603571" />
+    <state x="1366" y="0" width="727" height="620" key="dock-window-1/0.639.1366.768/1366.0.896.1440@1366.0.896.1440" timestamp="1605074453071" />
+    <state x="1366" y="0" width="865" height="699" key="dock-window-1/0.666.1366.741/1366.0.896.1440@0.666.1366.741" timestamp="1603565600810" />
+    <state x="1366" y="0" width="865" height="662" key="dock-window-1/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1604998179317" />
+    <state x="369" y="752" width="821" height="645" key="dock-window-1/0.666.2231.774@0.666.2231.774" timestamp="1604817945937" />
+    <state x="1366" y="0" width="1003" height="792" key="dock-window-1/1366.0.1048.1680/0.939.1366.741@1366.0.1048.1680" timestamp="1602053601492" />
+    <state x="0" y="27" width="729" height="628" key="dock-window-1/1366.0.768.1366/0.598.1366.768@0.598.1366.768" timestamp="1605417209388" />
+    <state x="1366" y="551" width="733" height="478" key="dock-window-1/1366.0.768.1366/0.625.1366.741@0.625.1366.741" timestamp="1605600917981" />
+    <state x="1366" y="28" width="723" height="643" maximized="true" key="dock-window-1/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605675423573" />
+    <state x="280" y="138" width="860" height="706" maximized="true" key="dock-window-1/1366.0.896.1440/0.639.1366.768@0.639.1366.768" timestamp="1603536924407" />
+    <state x="1371" y="491" width="860" height="706" key="dock-window-1/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1604464720687" />
+    <state x="1366" y="708" width="865" height="699" key="dock-window-2" timestamp="1603565734415">
+      <screen x="1366" y="0" width="896" height="1440" />
+    </state>
+    <state x="1366" y="708" width="865" height="699" key="dock-window-2/0.666.1366.741/1366.0.896.1440@0.666.1366.741" timestamp="1603565600811" />
+    <state x="1366" y="708" width="865" height="699" key="dock-window-2/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1603565734415" />
+    <state x="1457" y="10" width="909" height="738" key="dock-window-2/1366.0.1048.1680/0.939.1366.741@1366.0.1048.1680" timestamp="1602046033974" />
+    <state x="280" y="666" width="860" height="706" maximized="true" key="dock-window-2/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603529185914" />
+    <state x="1613" y="570" width="618" height="870" key="find.popup" timestamp="1602654929134">
+      <screen x="1366" y="0" width="896" height="1440" />
+    </state>
+    <state x="1613" y="570" width="618" height="870" key="find.popup/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1602654929134" />
+    <state x="1394" y="148" key="run.anything.popup" timestamp="1605312091899">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state x="1394" y="148" key="run.anything.popup/0.625.1366.741/1366.0.768.1366@1366.0.768.1366" timestamp="1605312091899" />
+    <state x="1447" y="121" width="672" height="644" key="search.everywhere.popup" timestamp="1605231238229">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state x="1461" y="128" width="672" height="678" key="search.everywhere.popup/0.666.1366.741/1366.0.896.1440@1366.0.896.1440" timestamp="1604880051831" />
+    <state x="1447" y="121" width="672" height="644" key="search.everywhere.popup/1366.0.768.1366/0.625.1366.741@1366.0.768.1366" timestamp="1605231238229" />
+    <state x="1461" y="128" width="672" height="678" key="search.everywhere.popup/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1602647683472" />
+    <state x="1523" y="956" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603498203503">
+      <screen x="1366" y="0" width="896" height="1440" />
+    </state>
+    <state x="1523" y="956" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1366.0.896.1440/0.666.1366.741@1366.0.896.1440" timestamp="1603498203503" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/diseases_arr.php</url>
+          <line>7</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/spa.php</url>
+          <line>278</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/spa.php</url>
+          <line>280</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>55</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/spa.php</url>
+          <line>42</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/user_profile.php</url>
+          <line>41</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/user_profile.php</url>
+          <line>42</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>246</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/model.php</url>
+          <line>113</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/model.php</url>
+          <line>145</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>277</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>278</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>281</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>282</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>287</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>286</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>288</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>289</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>291</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>293</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>294</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>295</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>247</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>208</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>183</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>156</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>148</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>106</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>100</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>60</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/searchDBTest.php</url>
+          <line>126</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/searchDBTest.php</url>
+          <line>120</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/searchDBTest.php</url>
+          <line>119</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/searchDBTest.php</url>
+          <line>116</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/searchDBTest.php</url>
+          <line>117</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>241</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>238</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller.php</url>
+          <line>236</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/model.php</url>
+          <line>100</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>http://localhost/project/js/googleSignin.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>http://localhost/project/js/googleSignin.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>http://localhost/project/js/googleSignin.js</url>
+          <line>21</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>718</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>719</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>720</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>698</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>697</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>696</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>695</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>694</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/checkboxToMyTable.js</url>
+          <line>16</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/checkboxToMyTable.js</url>
+          <line>22</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/checkboxToMyTable.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/checkboxToMyTable.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/checkboxToMyTable.js</url>
+          <line>20</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/checkboxToMyTable.js</url>
+          <line>18</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/checkboxToMyTable.js</url>
+          <line>32</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/checkboxToMyTable.js</url>
+          <line>40</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/deleteCheckedRows.js</url>
+          <line>38</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/deleteCheckedRows.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/deleteCheckedRows.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/deleteCheckedRows.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>750</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>738</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>693</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/searchKeyTerm.js</url>
+          <line>50</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/searchKeyTerm.js</url>
+          <line>79</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/searchKeyTerm.js</url>
+          <line>123</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/searchKeyTerm.js</url>
+          <line>124</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/searchKeyTerm.js</url>
+          <line>83</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/searchKeyTerm.js</url>
+          <line>110</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>194</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>203</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>215</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>225</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>51</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>65</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/spa.js</url>
+          <line>183</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/project$localhostJSDebug.dat" NAME="localhostJSDebug Coverage Results" MODIFIED="1605338527140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
