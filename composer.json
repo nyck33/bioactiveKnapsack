@@ -6,11 +6,11 @@
     }
   ],
   "require": {
-        "mongodb/mongodb": "^1.7",
+
       "ext-mysqli": "*",
         "fabpot/goutte": "^4.0",
       "ext-json": "*",
-      "jmaister/excellentexport": "~1.4.0",
+      "jmaister/excellentexport": "*",
       "ext-mbstring": "*"
     }
 }
