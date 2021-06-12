@@ -1,6 +1,6 @@
 <?php
-//require_once('connection_tru.php');
-require_once('connection.php');
+require_once('connection_tru.php');
+//require_once('connection.php');
 //require('diseases_arr.php');
 
 
