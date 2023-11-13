@@ -91,9 +91,11 @@ if(isset($_POST['page']) && isset($_POST['command'])){
                 </span>
                 <br>
                 <br>
-                <input type='submit'>&nbsp;&nbsp;
-                <input id='cancel-signin-button' type='button' value='Cancel'>&nbsp;&nbsp;
-                <input type='reset'>
+                <div class="button-container">
+                    <input type='submit' value='Sign In'>&nbsp;&nbsp;
+                    <input id='cancel-signin-button' type='button' value='Cancel'>&nbsp;&nbsp;
+                    <input type='reset' value='Reset'>
+                </div>
             </form>
             <div class="g-signin2" data-onsuccess="onSignIn"></div>
 
@@ -153,9 +155,11 @@ if(isset($_POST['page']) && isset($_POST['command'])){
                 </span>
                 <br>
                 <br>
-                <input type='submit'>&nbsp;&nbsp;
-                <input id='cancel-join-button' type='button' value='Cancel'>&nbsp;&nbsp;
-                <input type='reset'>
+                <div class="button-container">
+                    <input type='submit' value='Submit Query'>&nbsp;&nbsp;
+                    <input id='cancel-join-button' type='button' value='Cancel'>&nbsp;&nbsp;
+                    <input type='reset' value='Reset'>
+                </div>
             </form>
             <?php
                 //if any error messages are set, unset session so user starts over

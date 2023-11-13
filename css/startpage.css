@@ -13,7 +13,7 @@ body {
     width: 100%;
     height: 100px;
     background-color: white;
-    color: white;
+    color: black; /* Updated color to black for visibility */
     text-align: center;
 }
 
@@ -22,6 +22,7 @@ body {
     top: 120px;
     width: 100%;
     height: calc(100% - 120px);
+    text-align: center; /* Center content text */
 }
 
 /* Drop-down Menu Styles */
@@ -55,7 +56,7 @@ body {
 #ddm ul li {
     padding: 5px;
     background-color: Gray;
-    border: 1px solid black;
+    border: none; /* Removed border for a cleaner look */
     cursor: pointer;
 }
 
@@ -69,12 +70,14 @@ body {
     background-color: white;
     border: 1px solid #ddd;
     padding: 20px;
+    padding-bottom: 40px; /* Increased padding at the bottom */
     box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
     position: absolute;
     top: 50px;
-    left: calc(50% - 275px); /* Adjust as needed */
+    left: 50%;
+    transform: translateX(-50%); /* Center the modal */
     width: 550px;
-    height: 300px;
+    height: auto; /* Height adjusts to content */
     z-index: 999;
 }
 
@@ -93,18 +96,46 @@ input[type=text], input[type=password] {
     box-sizing: border-box;
 }
 
-input[type=submit], input[type=button], input[type=reset] {
+/* Button Styles within Modal */
+.modal-window input[type="submit"],
+.modal-window input[type="button"],
+.modal-window input[type="reset"] {
     background-color: #007bff;
     color: white;
-    padding: 14px 20px;
-    margin: 8px 0;
+    padding: 10px 15px;
+    margin: 4px 2px;
     border: none;
     cursor: pointer;
-    width: 100%;
+    width: auto;
+    display: inline-block;
+    box-sizing: border-box;
 }
 
-input[type=submit]:hover, input[type=button]:hover, input[type=reset]:hover {
+.modal-window input[type="submit"]:hover,
+.modal-window input[type="button"]:hover,
+.modal-window input[type="reset"]:hover {
     background-color: #0056b3;
+}
+
+/* Ensuring buttons fit within the modal, for all screen sizes */
+@media (max-width: 570px) {
+    .modal-window {
+        width: 90%;
+        left: 5%;
+        transform: translateX(-5%);
+    }
+    
+    .modal-window .button-container {
+        text-align: center;
+    }
+    
+    .modal-window input[type="submit"],
+    .modal-window input[type="button"],
+    .modal-window input[type="reset"] {
+        padding: 10px;
+        margin: 4px;
+        width: auto;
+    }
 }
 
 #blanket {
