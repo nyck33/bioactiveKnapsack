@@ -1,4 +1,10 @@
 <?php
+
+//error code
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
 //When controller.php is accessed for the first time
 
 if (empty($_POST['page'])) {
@@ -235,11 +241,16 @@ else if ($_POST['page'] == 'SpaPage'){
             $results_arr = array();
             //arr of matches_arr's
             $results_arr = search_tables($search_term);
-            $first_res = $results_arr[0];
-            $results_json = json_encode($results_arr, JSON_UNESCAPED_UNICODE);
-            //$results_json = json_encode($first_res, JSON_UNESCAPED_UNICODE);
 
-            echo $results_json;
+            if (!empty($results_arr)) {
+                $first_res = $results_arr[0];
+                $results_json = json_encode($results_arr, JSON_UNESCAPED_UNICODE);
+                echo $results_json;
+            } else {
+                // Handle the case where no results are found
+                echo json_encode([]);
+            }
+            
             break;
 
 

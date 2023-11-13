@@ -24,9 +24,9 @@ function showSearchResults(){
         function(results_json, status){
             //alert(results_json);
             var parsed = JSON.parse(results_json);
-            //alert(parsed);
+            //console.log(parsed);
             //results_obj = parsed[0][0];
-            //alert(results_obj);
+            //console.log(results_obj);
             makeTables(parsed);
         });
 };
@@ -39,6 +39,7 @@ function insertAfter(newNode, referenceNode){
 /* arr of arrs of obj form [[obj,obj,obj], [obj], [obj,obj]]
 * make table*/
 function makeTables(resArrofArrs){
+    //console.log(resArrofArrs);
     var arrOfObjects = [];
     //append each enclosing div of table as child this top_div
     var top_div = document.getElementById('db-search-result');
@@ -49,6 +50,7 @@ function makeTables(resArrofArrs){
     //for(var matchesArr in resArrofArrs){
     for(var i=0; i<resArrofArrs.length; i+=1){
         var matchesArr = resArrofArrs[i];
+        //console.log(matchesArr);
         //for excellentExport
         var csvName = count + ".csv";
         var tableId = "table" + count;
@@ -78,6 +80,7 @@ function makeTables(resArrofArrs){
         var rowCount = 0;
         for(var j=0; j<matchesArr.length; j+=1){
             var matchRow = matchesArr[j];
+            //console.log(matchRow)
             var tbody;
             var row;
 

@@ -1,4 +1,7 @@
 <?php
+
+require_once 'env_loader.php';
+
 class Db
 {
     //new version with user authentication
@@ -11,14 +14,14 @@ class Db
     public static $conn;
 
     public static function initialize(){
-        //if(self::$init===TRUE)
-          //  return;
-        $servername = "sql304.infinityfree.com";
-        $admin_user = "if0_35413583";
-        $admin_password = "W40WSeSwwE6ztK";
-        $dbname = "if0_35413583_bioactiveknapsack";
+        if(self::$init===TRUE) return;
+        self::$servername = getenv('DB_HOST');
+        self::$dbname = getenv('DB_NAME');
+        self::$admin_user = getenv('DB_USER');
+        self::$admin_password = getenv('DB_PASS');
         self::$init = TRUE;
-        self::$conn=mysqli_connect($servername, $admin_user, $admin_password, $dbname);
+
+        self::$conn=mysqli_connect(self::$servername, self::$admin_user, self::$admin_password, self::$dbname);
     }
 }
 //initialize db
