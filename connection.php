@@ -13,10 +13,10 @@ class Db
     public static function initialize(){
         //if(self::$init===TRUE)
           //  return;
-        $servername = "127.0.0.1";
-        $admin_user = "root";
-        $admin_password = "tennis33";
-        $dbname = "bioactiveKnapsack";
+        $servername = "sql304.infinityfree.com";
+        $admin_user = "if0_35413583";
+        $admin_password = "W40WSeSwwE6ztK";
+        $dbname = "if0_35413583_bioactiveknapsack";
         self::$init = TRUE;
         self::$conn=mysqli_connect($servername, $admin_user, $admin_password, $dbname);
     }
