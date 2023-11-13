@@ -39,93 +39,48 @@ function insertAfter(newNode, referenceNode){
 /* arr of arrs of obj form [[obj,obj,obj], [obj], [obj,obj]]
 * make table*/
 function makeTables(resArrofArrs){
-    //console.log(resArrofArrs);
-    var arrOfObjects = [];
-    //append each enclosing div of table as child this top_div
-    var top_div = document.getElementById('db-search-result');
-    //each row of matches is a dict
-    var count=0;
-    //make new table for each matchesArr
-    //appendChild to an enclosing responsive div
-    //for(var matchesArr in resArrofArrs){
-    for(var i=0; i<resArrofArrs.length; i+=1){
-        var matchesArr = resArrofArrs[i];
-        //console.log(matchesArr);
-        //for excellentExport
-        var csvName = count + ".csv";
+    var top_div = $('#db-search-result');
+    var count = 0;
+
+    resArrofArrs.forEach(function(matchesArr, i) {
         var tableId = "table" + count;
-        var enclose_div = document.createElement('div');
-        enclose_div.setAttribute('class', 'table-responsive' );
-        //the actual table
-        var table= document.createElement('table');
-        table.setAttribute('class', 'table table-hover');
-        table.setAttribute('id', tableId);
-        //add button to download csv at bottom of enclosing div
-        //<a download="diseases.csv" href="#" onclick="return ExcellentExport.csv(this, 'disease-table');">Export to CSV</a>
-        var downloadCsvBtn = document.createElement('a');
-        downloadCsvBtn.setAttribute('class', 'btn btn-secondary');
-        downloadCsvBtn.setAttribute('download', csvName);
-        downloadCsvBtn.setAttribute('href', '#');
-        downloadCsvBtn.setAttribute('onclick', "return ExcellentExport.csv(this, 'disease-table');");
-        downloadCsvBtn.setAttribute('role', 'button');
-        downloadCsvBtn.textContent = 'download csv';
-        //todo: need jQuery for dyanically created DOM elements?
-        //insertAfter(downloadCsvBtn, enclose_div);
-        //enclose_div.insertAfter(downloadCsvBtn);
-        //$(enclose_div).append(downloadCsvBtn);
-        //enclose_div.appendChild(downloadCsvBtn);
-        //downloadCsvBtn.appendTo($(enclose_div));
-        //make a table from matchesArr, each matchRow is a table row
-        //for(var matchRow in matchesArr){
-        var rowCount = 0;
-        for(var j=0; j<matchesArr.length; j+=1){
-            var matchRow = matchesArr[j];
-            //console.log(matchRow)
-            var tbody;
-            var row;
+        var csvName = count + ".csv";
+        var enclose_div = $('<div>').addClass('table-responsive');
+        var table = $('<table>').addClass('table table-hover').attr('id', tableId);
+        var downloadCsvBtn = $('<a>').addClass('btn btn-secondary').attr({
+            'download': csvName,
+            'href': '#',
+            'onclick': "return ExcellentExport.csv(this, 'disease-table');",
+            'role': 'button'
+        }).text('download csv');
 
-            if(rowCount==0) {
-                //make new thead
-                var thead = table.createTHead();
-                row = thead.insertRow(0);
-                for (var h in matchRow) {
-                    let cell = row.insertCell(-1);
-                    let newText = document.createTextNode(h);
-                    cell.appendChild(newText);
-                }
-                //first value row
-                tbody = document.createElement('tbody');
-                table.append(tbody);
-                row = tbody.insertRow(-1);
-
-                for(let key in matchRow){
-                    let cell = row.insertCell(-1);
-                    let val = matchRow[key];
-                    let newText = document.createTextNode(val);
-                    cell.appendChild(newText);
-                }
-                //add heading
-                var tableHeading = "table " + count;
-                var table_heading = document.createElement('h6');
-                var heading_text = document.createTextNode(tableHeading);
-                table_heading.appendChild(heading_text);
-                enclose_div.insertBefore(table_heading, enclose_div.children[0] );
+        matchesArr.forEach(function(matchRow, j) {
+            var row = $('<tr>');
+            for (var key in matchRow) {
+                var cell = $('<td>').text(matchRow[key]);
+                row.append(cell);
             }
-            else{
-                //cannot do this dynamically
-                //var tbodyRef = document.getElementById(tableId).getElementsByTagName('tbody')[0];
-                row = tbody.insertRow(-1);
-                for(let key in matchRow) {
-                    let cell = row.insertCell(-1);
-                    let newText = document.createTextNode(matchRow[key]);
-                    cell.appendChild(newText);
-                    }
-            }
-            rowCount+=1;
-        }
-        //append to top div at -1 index
-        top_div.appendChild(table);
-        count+=1;
+            table.append(row);
+        });
 
-    }
+        enclose_div.append(downloadCsvBtn, table);
+        top_div.append(enclose_div);
+        count++;
+    });
 };
+
+/*
+The makeTables function in searchKeyTerm.js is responsible for creating tables from the search results. It seems to be working with an array of arrays, where each sub-array represents a row of data to be displayed in the table.
+
+Here are some potential issues and refactorings:
+
+1. Parsing JSON: The showSearchResults function parses the JSON response from the server. If the server's response is not in the expected format, this could cause issues. Ensure that the server is returning a JSON string that can be parsed into an array of arrays.
+
+2. Creating Elements: The makeTables function creates a lot of elements manually. This can be error-prone and hard to manage. Consider using a library like jQuery to simplify this process. For example, instead of creating a table row and cells manually, you could use jQuery's append function to add HTML strings to the table.
+
+3. Appending Elements: The function seems to be appending elements in a somewhat convoluted way. For example, it creates a tableHeading element, then inserts it before the first child of enclose_div. It would be simpler to append the tableHeading to enclose_div directly.
+
+4. Error Handling: There doesn't seem to be any error handling in the showSearchResults function. If the AJAX request fails or returns an error, the function won't handle this gracefully. Consider adding a .fail handler to the AJAX request to handle any errors.
+
+Here's a simplified version of the makeTables function using jQuery:
+*/
