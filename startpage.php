@@ -97,7 +97,7 @@ if(isset($_POST['page']) && isset($_POST['command'])){
                     <input type='reset' value='Reset'>
                 </div>
             </form>
-            <div class="g-signin2" data-onsuccess="onSignIn"></div>
+            <!--<div class="g-signin2" data-onsuccess="onSignIn"></div>-->
 
         </div>
 

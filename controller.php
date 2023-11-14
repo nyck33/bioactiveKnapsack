@@ -5,18 +5,24 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-//When controller.php is accessed for the first time
+//does not always work
+/*
+if(!isset($_SESSION)){
+    session_start();
+}
+*/
+//so do this
+if (session_status() == PHP_SESSION_NONE) {
+    session_start();
+}
 
+//When controller.php is accessed for the first time
 if (empty($_POST['page'])) {
     $d_type = 'none';
     //$_SESSION['display_type'] = $d_type;
     include('startpage.php');
     exit();
 }
-if(!isset($_SESSION)){
-    session_start();
-}
-
 /*
 *   When commands come from StartPage or SpaPage
 */
